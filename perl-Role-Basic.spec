@@ -4,7 +4,7 @@
 #
 Name     : perl-Role-Basic
 Version  : 0.0804
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/O/OV/OVID/Role-Basic-0.0804.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/O/OV/OVID/Role-Basic-0.0804.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libr/librole-basic-perl/librole-basic-perl_0.13-2.debian.tar.xz

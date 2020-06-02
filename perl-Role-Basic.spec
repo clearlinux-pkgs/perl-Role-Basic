@@ -4,7 +4,7 @@
 #
 Name     : perl-Role-Basic
 Version  : 0.13
-Release  : 14
+Release  : 15
 URL      : https://cpan.metacpan.org/authors/id/O/OV/OVID/Role-Basic-0.13.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/O/OV/OVID/Role-Basic-0.13.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libr/librole-basic-perl/librole-basic-perl_0.13-2.debian.tar.xz
@@ -92,5 +92,5 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.2/Role/Basic.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Role/Basic/Philosophy.pod
+/usr/lib/perl5/vendor_perl/5.30.3/Role/Basic.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Role/Basic/Philosophy.pod
